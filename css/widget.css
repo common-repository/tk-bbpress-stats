@@ -1,0 +1,13 @@
+/* This stylesheet is used to style the public view of the widget. */
+dt.tk_bbpress_stats {
+    float: left;
+    font-weight: normal;
+    font-size: 14px;
+    width: 50%;
+}
+dd.tk_bbpress_stats {
+  font-weight: bold;
+  float: left;
+  font-size: 14px;
+  width: 50%;
+}
